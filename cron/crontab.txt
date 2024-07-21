@@ -1,0 +1,5 @@
+# Runs Weather API every hour
+1 * * * * /usr/bin/python3 /path/to/weather/main.py > /dev/null 2>&1
+
+# Runs Backups every day at 1:00 AM
+0 1 * * * /usr/bin/python3 /path/to/backup/full_backup.py > /dev/null 2>&1
