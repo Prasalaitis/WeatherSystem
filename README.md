@@ -25,7 +25,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 #### Step 1: Clone the repository
 ```bash
-git clone https://github.com/TuringCollegeSubmissions/egacio-DE2v2.2.5.git your-project-name
+git clone https://github.com/Prasalaitis/WeatherSystem/blob WeatherSystem
 cd your-project-name
 ```
 
